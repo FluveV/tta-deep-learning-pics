@@ -1,0 +1,11 @@
+backbone,proposal,popSize,Ntrials,mode,kernel_size,prompt,text_thr,box_thr,enableSR,enableAugm,trainIter,errorRate,time
+resnet,evo,16,5,model,,,,,False,True,1,0.9884,4549.1934
+rvt,evo,16,5,model,,,,,False,True,1,0.9230666666666667,6155.2731
+resnet,evo,16,5,emap,3,,,,False,True,1,0.9928,2995.5558
+rvt,evo,16,5,emap,3,,,,False,True,1,0.9249333333333334,3879.7199
+resnet,evo,16,5,emap,11,,,,False,True,1,0.992,2540.9811
+rvt,evo,16,5,emap,11,,,,False,True,1,0.9297333333333333,3407.5735
+resnet,evo,16,5,freqmap,3,,,,False,True,1,0.9921333333333333,2232.9782
+rvt,evo,16,5,freqmap,3,,,,False,True,1,0.9294666666666667,3113.9738
+resnet,evo,16,5,freqmap,11,,,,False,True,1,0.9944,2277.9936
+rvt,evo,16,5,freqmap,11,,,,False,True,1,0.9326666666666666,3157.5604

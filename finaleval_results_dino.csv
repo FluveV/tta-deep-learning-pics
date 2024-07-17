@@ -1,0 +1,5 @@
+backbone,proposal,popSize,Ntrials,mode,kernel_size,prompt,text_thr,box_thr,enableSR,enableAugm,trainIter,errorRate,time
+resnet,dino,16,,,,animal . mammal . reptile . bird . fish . bug . object . tool,0.2,0.2,False,True,1,0.9844,4971.4354
+rvt,dino,16,,,,animal . mammal . reptile . bird . fish . bug . object . tool,0.2,0.2,False,True,1,0.8578666666666667,5890.9112
+resnet,dino,32,,,,animal . mammal . reptile . bird . fish . bug . object . tool,0.2,0.2,False,True,1,0.9832,6686.0753
+rvt,dino,32,,,,animal . mammal . reptile . bird . fish . bug . object . tool,0.2,0.2,False,True,1,0.8548,8190.5435

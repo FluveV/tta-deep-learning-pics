@@ -1,0 +1,4 @@
+backbone,proposal,popSize,Ntrials,mode,kernel_size,prompt,text_thr,box_thr,enableSR,enableAugm,trainIter,errorRate,time
+resnet,default,16,,,,,0.2,0.2,False,True,1,0.9861333333333333,1464.5735
+rvt,default,16,,,,,0.2,0.2,False,True,1,0.9061333333333333,2164.4454
+
